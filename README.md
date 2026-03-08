@@ -6,8 +6,6 @@
 
 A lightweight World of Warcraft addon for **Midnight** that tracks your **Shard of Dundun** and **Unalloyed Abundance** currencies while providing one-click waypoints to big abundance events.
 
-![Screenshot](https://your-image-host.com/screenshot.png) *(Add your screenshot here)*
-
 ## Features
 
 - **Live Currency Tracking**: Real-time counters for Shard of Dundun (center icon) and Unalloyed Abundance (bottom-left)

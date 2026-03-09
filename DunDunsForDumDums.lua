@@ -26,6 +26,7 @@ frame:SetScript("OnDragStop", function(self)
     db.y = y
 end)
 frame:SetFrameStrata("HIGH")
+frame:Hide() -- Hidden by default on login
 
 -- Title - Centered vertically in title bar
 frame.TitleBg:SetHeight(30)
